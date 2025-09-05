@@ -11,4 +11,10 @@ else if(ahe > 65)
 {
     Console.WriteLine("yasli");
 }
+
+
+int bal = 100;
+if(bal < 0 && bal < 100)
+    Console.WriteLine("qiymetiniz A");
+
    
